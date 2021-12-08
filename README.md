@@ -1,1 +1,16 @@
-# UFOs
+# UFO Sighting with Javascript and HTML
+
+## Overview of Project
+
+### Purpose
+We are helping Dana create a webpage that sorts through UFO sighting data and returns a list based on filters that we set up. Originally we only had a date filter, but we later on decided that we should add more filters for city, state, country and shape. The purpose of this project is to take our ufo data file, and make it much easier for the average person to read. This is why we created a website using HTML code and created a filter system using Javascript so that the user has an easy interface to get the information.
+
+## UFO Sighting Website Results
+[![https://raw.githubusercontent.com/HadiAli08/UFOs/main/static/images/Home%20Page.png](https://raw.githubusercontent.com/HadiAli08/UFOs/main/static/images/Home%20Page.png "https://raw.githubusercontent.com/HadiAli08/UFOs/main/static/images/Home%20Page.png")](https://raw.githubusercontent.com/HadiAli08/UFOs/main/static/images/Home%20Page.png "https://raw.githubusercontent.com/HadiAli08/UFOs/main/static/images/Home%20Page.png")
+
+Above is what our home page looks like. We have it laid out fairly basic where there is a title up top with a picture from nasa in the background. We have an article that is below our title and gives a little bit of background on this project. Below is a picture of our filters selection mentioned earlier where we can filter our large dataset using Data, City, State, Country, and shape. These filters can also be used simultaneously as shown in the 2nd picture below where we used all 5 filters at once to get a very specific even out of the large list. The ability to use all of our filters makes it much easier for the user to get the data that they need quickly rather than having to scroll through hundreds of events. 
+
+[![https://raw.githubusercontent.com/HadiAli08/UFOs/main/static/images/Filter.png](https://raw.githubusercontent.com/HadiAli08/UFOs/main/static/images/Filter.png "https://raw.githubusercontent.com/HadiAli08/UFOs/main/static/images/Filter.png")](https://raw.githubusercontent.com/HadiAli08/UFOs/main/static/images/Filter.png "https://raw.githubusercontent.com/HadiAli08/UFOs/main/static/images/Filter.png")
+[![https://raw.githubusercontent.com/HadiAli08/UFOs/main/static/images/filter%20in%20action.png](https://raw.githubusercontent.com/HadiAli08/UFOs/main/static/images/filter%20in%20action.png "https://raw.githubusercontent.com/HadiAli08/UFOs/main/static/images/filter%20in%20action.png")](https://raw.githubusercontent.com/HadiAli08/UFOs/main/static/images/filter%20in%20action.png "https://raw.githubusercontent.com/HadiAli08/UFOs/main/static/images/filter%20in%20action.png")
+## Summary
+The webpage that we have created takes the dataset and makes it much easier to navigate. The filters that we created makes it much easier to do so. A drawback to our current design could be that there is only one article to go through, rather than numerous which could give more information. A couple recommendations I may add would be to 1. Include more articles for users to read through which will help them gain more insight. 2. Add a function to the site where you can report your own sightings, or even have it automatically update with sightings as they come in. 
